@@ -1145,6 +1145,12 @@ test_cases:
     minor: '26'
     patch: '14'
 
+  - user_agent_string: 'Mozilla/5.0'
+    family: 'Apple Mail'
+    major:
+    minor:
+    patch:
+
   - user_agent_string: 'Airmail 1.0 rv:148 (Macintosh; Mac OS X 10.8.3; en_BE)'
     family: 'Airmail'
     major: '1'
